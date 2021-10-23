@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Stock Market
 - 💞️ I’m looking to collaborate on Hackathons
 - 📫 Here is my portfolio/projects: https://devpost.com/pritishstudies 
+- Some of my contribution in projects can also be seen by browsing through the organizations I am part of.
 
 <!--- 
 Lordpritish/Lordpritish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
