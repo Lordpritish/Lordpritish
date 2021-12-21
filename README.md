@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lordpritish
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning and Stock Market
+- 🌱 I’m currently learning about Machine Learning and Stock Market
 - 💞️ I’m looking to collaborate on Hackathons
 - 📫 Here is my portfolio/projects: https://devpost.com/pritishstudies 
 - Some of my contribution in projects can also be seen by browsing through the organizations I am part of.
